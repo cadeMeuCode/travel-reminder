@@ -13,3 +13,7 @@ It was part of a front-end roadmap that I follow.
 The backpack designed in the project was chosen by the course directors and not by me.  
 The original backpack was designed by ![Tricia Katz](https://codepen.io/triciaakatz/pen/LbWVPj)  
   
+## PS  
+
+The explicacao.md is for my personal use.  
+but anyone can read it if they think they can add some knowledge.
